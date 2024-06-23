@@ -1,4 +1,4 @@
 # Flutter Learn Folders
 ------------------------------------------------
-*Image Picker with cropper* <br>
+*Image Picker with Mobx* <br>
 
