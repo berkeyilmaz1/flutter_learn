@@ -1,16 +1,21 @@
-# flutter_image_picker
+# Image Picker with Mobx
 
-A new Flutter project.
+This is a Image Picker with Mobx. <br>
 
-## Getting Started
+## The Libraries and Technologies
+-*Flutter Mobx*<br>
+-*Dio*<br>
+-*Json Annotation*<br>
+-*Lottie for Animations*<br>
+-*Image Picker*<br>
+-*Image Cropper*<br>
 
-This project is a starting point for a Flutter application.
+## App Image
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/berkeyilmaz1/flutter_learn/assets/115240560/9c5b0a19-b749-4b63-88e1-f9e22276d901
+
+
+------
+Tutorial => Veli Bacik 
